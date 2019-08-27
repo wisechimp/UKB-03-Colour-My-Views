@@ -7,4 +7,7 @@
     <string name="box_five_text">Box Five</string>
     <string name="how_to_play">How to Play</string>
     <string name="instructions">Tap the screen and the buttons to play.</string>
+    <string name="box_three_butt">Box 3 Control</string>
+    <string name="box_four_butt">Box 4 Control</string>
+    <string name="box_five_butt">Box 5 Control</string>
 </resources>
